@@ -1,0 +1,60 @@
+<html>
+    <title>Пуфыфтики</title>
+    <body style="background:Aquamarine;font-family:sans-serif">
+        <header style ="color:DarkOrange;font-family:cursive;background:DarkGoldenRod">
+            <img src="https://i.pinimg.com/originals/2d/27/59/2d27593170e8743a12eafe47eeaf79c7.jpg" height="60px" width="60px"/>
+        <a href="https://www.toy.ru/catalog/myagkie_igrushki/" style="color:white">Магазин: Пуфыфтый мир</a>
+        </header>
+        <main style ="color:white">
+            <h1 style="text-align:center;color:white;text-shadow:red 0 0 4px;font-size:50px">Виды пуфыфтиков</h1><h2 style="text-align:center;text-shadow:red 0 0 4px;font-size:40px">Все кто есть</h2>    
+            <img src="https://cdn.toy.ru/upload/iblock/4ac/1.jpg" height="250px" width="200px">
+            <img src="https://cdn.toy.ru/upload/iblock/b07/3.jpg" height="250px" width="200px">
+            <img src="https://cdn.toy.ru/upload/iblock/6ba/2.jpg" height="250px" width="200px">
+            <img src="https://cdn.toy.ru/upload/iblock/b6b/4.jpg" height="250px" width="200px">
+            <h1 style="text-align:center;text-shadow:Green 0 0 4px;font-size:50px">Пуфыфтая таблица</h1>
+            <h2 style="text-align:center;text-shadow:Green 0 0 4px;font-size:40px">Информация</h2>
+            <h2><table  style = "border-collapse:collapse;border:5px solid deeppink;background-color:Gold;font-size:20px">
+        <tr style = "background-color:green;color:white;">
+            <td></td>
+            <td>Название</td>
+            <td>Средняя цена</td>
+            <td>Скидка</td>
+        </tr>
+        <tr style = "border:3px White">
+        <td rowspan="2" style="background-color: DarkCyan;">Популярные</td>
+        <td style="text-shadow:red 0 0 4px">Любимые герои</td>
+        <td style="text-shadow:DarkGreen 0 0 4px">750 руб.</td>
+        <td style="text-shadow:Black 0 0 4px">0%</td>
+        </tr>
+        <tr style = "border:3px solid deeppink">
+        <td style="text-shadow:red 0 0 4px">Плюшевые медведи</td>
+        <td style="text-shadow:DarkGreen 0 0 4px">850 руб.</td>
+        <td style="text-shadow:Black 0 0 4px">0%</td>
+        </tr>
+        <tr  style = "border:3px solid deeppink">
+        <td rowspan="2" style="background-color: blue;">Скидка</td>
+        <td style="text-shadow:red 0 0 4px">Дикие звери</td>
+        <td style="text-shadow:DarkGreen 0 0 4px">650 руб.</td>
+        <td style="text-shadow:Black 0 0 4px">15%</td>
+        </tr>
+        <tr>
+        <td style="text-shadow:red 0 0 4px">Домашние животные</td>
+        <td style="text-shadow:DarkGreen 0 0 4px">550 руб.</td>
+        <td style="text-shadow:Black 0 0 4px">25%</td>
+        </tr>
+        </table></h2>
+        <h1 style="color:White;text-align:center;text-shadow:Indigo 0 0 4px;font-size:50px">О пуфыфтиках</h1><h2 style="text-align:center;text-shadow:Indigo 0 0 4px;font-size:40px">Почему они нужны</h2>    
+        <p style="color:Indigo;background:white;font-size:20px">Мягкая игрушка – универсальный подарок на все случаи жизни! Плюшевые игрушки радуют и малышей, и взрослых, ведь все мы «родом из детства». В этом разделе Вы можете выбрать и купить мягкую игрушку на любой праздник! Для Вашего удобства, мы разделили категорию мягких игрушек на тематические разделы.<br/>
+        <br/>Раздел «Плюшевые медведи», как можно понять из названия, объединяет мягких медвежат различного цвета и размера – от небольших игрушек 20 см высотой, до плюшевых медведей размерами более метра от известного производителя мягких игрушек Aurora.<br/>
+        <br/>В разделе «Домашние животные» Вы найдете мягкие игрушки от компаний Aurora и Zapf Creation, выполненные в виде домашних животных. Мягкие игрушки кошки и собачки различных пород, выполнены с удивительной реалистичностью. Такой чудесный подарок, непременно, будет высоко оценен владельцем породистого Барсика или Рекса. Также в ассортименте нашего интернет-магазина представлено большое количество игрушек в виде других домашних животных – пушистых кроликов и очаровательных овечек. Игрушки представлены в различных размерах – от 20 см до 70 см.<br/>
+        <br/>В разделе «Дикие животные» Вы можете купить мягкие игрушки, выполненные в виде животных, встречающихся в дикой природе. Здесь собраны разнообразные обезьянки, тигрята, ёжики, лисички и даже морские котики.<br/>
+        <br/>В разделе «STAR WARS» размещаются плюшевые игрушки герои культовой космической саги «Звёздные войны». Здесь Вы можете найти любимых персонажей киноэпопеи – Дарта Вейдера, гранд-мастера джедаев Йоду, Чубакку, астродроидов R2-D2 и ВВ-8 и многих других. Почти все игрушки, представленные в этом разделе, включая мягкие брелоки, озвучены оригинальными голосами и звуками из фильма. Озвученная мягкая игрушка в виде героя «Звёздных войн» - великолепный подарок для поклонника киносаги любого возраста.<br/>
+        <br/>Раздел «Любимые герои» объединяет мягкие игрушки, выполненные в виде персонажей детских анимационных и художественных фильмов и мультсериалов. Здесь Вы можете купить детские плюшевые игрушки, созданные по мультфильмам «Головоломка», «Как приручить дракона», «Добропорядочный динозавр», «Холодное сердце», «Доктор Плюшева», «Щенячий патруль», «Винни Пух и все-все-все», «Юху и его друзья» и многие-многие другие.</p>
+        </main>
+        <footer style="background:SlateBlue;color:white">Магазин: Пуфыфтый мир
+            <p>Улица: Пуфыфтая 29</p>
+            <p>Сделать заказ: +79196396721</p>
+
+        </footer>
+    </body>
+</html>
